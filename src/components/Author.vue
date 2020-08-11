@@ -8,12 +8,13 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			Sophia University Ph.D student, study at National Institute for Material Sciences (NIMS).
+			I major in superconducting material, especially Nb3Sn.
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/chuckkeith0413">Follow on Twitter</a>
+			<a href="//www.researchgate.net/profile/Taro_Morita">Research Gate</a>
 		</p>
 
 	</div>
