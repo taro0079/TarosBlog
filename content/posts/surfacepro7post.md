@@ -5,11 +5,12 @@ published: true
 tags: ['computer', 'windows']
 series: false
 description: 念願のSurface pro 7を購入しました。
+
 ---
 
 最近までMacをメインで使っていたのですが、計測器制御やグラフソフトのOriginの利用が多くなってきたこと、あとボスがWindowsを使っててなにかとMacだとファイル共有などで不便に感じてたこともあり、Windowsマシンの購入を考えておりましたがなかなか思い切れずにいました。
 
-![image](./images/IMG_1471.JPEG)
+![Image](./images/IMG_1471.JPEG)
 
 
 先日、自分の弟が13万円程度するVRデバイスを購入したと聞き、私もなぜかそれで決心してSurface pro 7を購入しました。
