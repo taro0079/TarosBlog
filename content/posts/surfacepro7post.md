@@ -1,6 +1,6 @@
 ---
 title: Surface pro 7
-data: 2020-08-22
+date: 2020-08-22
 published: true
 tags: ['computer', 'windows']
 series: false
