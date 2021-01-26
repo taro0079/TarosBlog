@@ -9,14 +9,17 @@
 
 		<p class="author__intro">
 			Sophia University Ph.D student, study at National Institute for Material Sciences (NIMS).
-			I major in superconducting material, especially Nb3Sn.
+			Superconductor, Material, Nb3Sn
 		</p>
 
+		<h3>SNS</h3>
 		<p class="author__links">
 			<a href="//twitter.com/chuckkeith0413">Follow on Twitter</a>
 			<a href="//www.researchgate.net/profile/Taro_Morita">Research Gate</a>
 		</p>
-
+		<p class="achivement">
+			<a href="/achivement/">Achivement</a>
+		</p>
 	</div>
 </template>
 

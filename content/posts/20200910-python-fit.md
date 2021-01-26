@@ -1,5 +1,6 @@
 ---
-title: least squares approximation on python
+slug : least square
+title: Pythonでの最小自乗近似
 date: 2020-09-10
 published: true
 tags: ['python']
