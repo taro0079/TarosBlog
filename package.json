@@ -11,11 +11,15 @@
     "@gridsome/remark-prismjs": "^0.2.0",
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.3.0",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.5.0"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^0.20.0",
+    "eslint": "^7.26.0",
+    "eslint-plugin-vue": "^7.9.0",
     "node-sass": "^4.12.0",
-    "sass-loader": "^8.0.0"
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.0"
   }
 }
