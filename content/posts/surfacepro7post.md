@@ -35,3 +35,4 @@ Adobeソフト群もWindowsの方がよく動くっていう話もあるし、iP
 使っていたMacbook proはGarage band専用になるかな・・・(笑)
 それか研究所にずっと置いとくPCにしようかと思ってます。
 
+

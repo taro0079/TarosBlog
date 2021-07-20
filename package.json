@@ -12,6 +12,7 @@
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.3.0",
     "gridsome": "^0.7.0",
+    "gridsome-remark-katex": "^0.1.1",
     "vuetify": "^2.5.0"
   },
   "devDependencies": {

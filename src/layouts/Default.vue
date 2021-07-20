@@ -17,7 +17,7 @@
 
     <footer class="footer">
       <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
-      <span class="footer__links">Powered by <a href="//gridsome.org"> Gridsome </a></span>
+      <span class="footer__links">Powered by Taro Morita</span>
     </footer>
 
   </div>
@@ -55,7 +55,7 @@ export default {
   }
 
   @media screen and (min-width: 1300px) {
-    //Make header sticky for large screens
+    // Make header sticky for large screens
     position: sticky;
     width: 100%;
   }

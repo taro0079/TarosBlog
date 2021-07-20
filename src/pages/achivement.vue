@@ -1,11 +1,13 @@
 <template>
 <Layout :show-logo="true">
+<div class="content-box">
   <h2>論文</h2>
         <div class="post-card content-box" v-for="card in cards" :key="card.title">
           <h3 class="post-card__title"> {{ card.title }}</h3>
           <div class="post-card__description">{{ card.author }}</div>
           <g-link class="post-card__link" :to="card.link">Link</g-link>
         </div>
+</div>
 </Layout>
 </template>
 <script>
